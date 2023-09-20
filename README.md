@@ -6,8 +6,6 @@ This GitHub repository contains interesting experiments showcasing the capabilit
 ## Dataset
 The dataset used for training and experimentation comprises 3,000 high-quality images of dancers in various poses. These images were carefully curated to provide a diverse range of dance movements and body positions. The dataset serves as the foundation for creating synthetic human images with the StyleGAN and StyleGAN2 models.
 
-### Data Preprocessing
-In the data preprocessing stage, actual images of dancers are used as input. To facilitate experimentation, fake images are created from the pretrained StyleGAN2 model. These fake images are generated using the learned features and latent space of the model. The combination of real and synthetic images allows for a wide range of experiments.
 
 ## Experiments
 ### Image Morphing
