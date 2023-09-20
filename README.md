@@ -16,6 +16,7 @@ Another fascinating experiment involves generating interpolation images using th
 
 ### Official Implementation
 [StyleGAN Official Implementation](https://github.com/NVlabs/stylegan)
+
 [StyleGAN2 Official Implementation](https://github.com/NVlabs/stylegan2)
 
 
