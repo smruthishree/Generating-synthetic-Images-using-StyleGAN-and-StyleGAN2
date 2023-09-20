@@ -9,20 +9,14 @@ The dataset used for training and experimentation comprises 3,000 high-quality i
 
 ## Experiments
 ### Image Morphing
-One of the exciting experiments conducted using the pretrained StyleGAN2 network is the ability to morph or transition between different poses of dancers. This functionality allows for seamless transformations from one dancer pose to another. Some key highlights of this experiment include:
-
-#### Pose Transition
-- **Male to Female Dancer**: Using the pretrained StyleGAN2 model, you can smoothly morph a male dancer's pose into that of a female dancer. This demonstrates the flexibility of the model in generating realistic and plausible transitions between different gender presentations.
+One of the exciting experiments conducted using the pretrained StyleGAN2 network is the ability to morph or transition between different poses of dancers. This functionality allows for seamless transformations from one dancer pose to another, from a Yellow background to a Blue one, and so on.
 
 ### Interpolation Images with StyleGAN2
 Another fascinating experiment involves generating interpolation images using the StyleGAN2 model. Interpolation involves creating a sequence of images that gradually transition from one pose to another. This can be used to visualize smooth transformations between poses and explore the latent space of the model.
 
 ### Official Implementation
 [StyleGAN Official Implementation](https://github.com/NVlabs/stylegan)
-
 [StyleGAN2 Official Implementation](https://github.com/NVlabs/stylegan2)
-
-
 
 
 
