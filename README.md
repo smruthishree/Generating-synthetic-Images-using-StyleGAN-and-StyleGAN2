@@ -1,7 +1,7 @@
 
 # StyleGAN and StyleGAN2 Human Image Synthesis
 
-This GitHub repository contains pre-trained StyleGAN and StyleGAN2 models used to generate synthetic human images. The primary dataset used in this project consists of 3,000 high-quality images of dancers in various poses. Additionally, this repository includes experiments showcasing the capabilities of the pretrained StyleGAN2 network, which was trained on the custom dancer dataset.
+This GitHub repository contains interesting experiments showcasing the capabilities of the pretrained StyleGAN2 network, which was trained on the custom dancer dataset. The generated images used here are generate synthetic human images trained on StyleGAN and StyleGAN2 models. The primary dataset used in this project consists of 3,000 high-quality images of dancers in various poses. 
 
 ## Dataset
 The dataset used for training and experimentation comprises 3,000 high-quality images of dancers in various poses. These images were carefully curated to provide a diverse range of dance movements and body positions. The dataset serves as the foundation for creating synthetic human images with the StyleGAN and StyleGAN2 models.
