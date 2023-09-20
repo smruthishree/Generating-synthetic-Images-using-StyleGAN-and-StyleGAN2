@@ -19,9 +19,10 @@ One of the exciting experiments conducted using the pretrained StyleGAN2 network
 ### Interpolation Images with StyleGAN2
 Another fascinating experiment involves generating interpolation images using the StyleGAN2 model. Interpolation involves creating a sequence of images that gradually transition from one pose to another. This can be used to visualize smooth transformations between poses and explore the latent space of the model.
 
-Official Implementations
-StyleGAN Official Implementation
-StyleGAN2 Official Implementation
+###Official Implementation
+[StyleGAN Official Implementation](https://github.com/NVlabs/stylegan)
+[StyleGAN2 Official Implementation](https://github.com/NVlabs/stylegan2)
+
 
 
 
